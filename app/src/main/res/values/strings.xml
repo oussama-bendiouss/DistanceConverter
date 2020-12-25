@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DistanceConverter</string>
+    <string name="Pickananimal">"Pick an animal : "</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="horse">Horse</string>
+    <string name="pig">Pig</string>
+    <string name="choice">you have select</string>
+    <string-array name="aniarray">
+        <item>@string/cat</item>
+        <item>@string/dog</item>
+        <item>@string/horse</item>
+        <item>@string/pig</item>
+    </string-array>
 </resources>
